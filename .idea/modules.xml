@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/IntellijMain/src/IntellijMain.iml" filepath="$PROJECT_DIR$/IntellijMain/src/IntellijMain.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyPlugin.iml" filepath="$PROJECT_DIR$/.idea/modules/MyPlugin.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SomeLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/SomeLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradlemain.iml" filepath="$PROJECT_DIR$/.idea/modules/gradlemain.iml" />
     </modules>
   </component>
 </project>
