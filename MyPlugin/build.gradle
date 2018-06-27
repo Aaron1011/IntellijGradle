@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+}
+
+group 'pw.aaron1011'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    mavenLocal()
+}
+
+dependencies {
+    compile "pw.aaron1011:SomeLibrary:1.0-SNAPSHOT"
+}
